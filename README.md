@@ -18,6 +18,6 @@ I like building small, thoughtful software.
 ## GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ZuesSaturday&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuesSaturday&layout=compact&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuesSaturday&layout=compact&hide_border=true" />
 </div>
 
